@@ -5,3 +5,4 @@
 [Horse Racing Duals](https://www.codingame.com/ide/puzzle/horse-racing-duals) | Easy | Loops | [Python](./Python/HorseRacingDuels.py) 
 [Power of Thor](https://www.codingame.com/multiplayer/codegolf/power-of-thor) | Easy | Conditions | [Python](./Python/PowerOfThor.py) 
 [Temperatures](https://www.codingame.com/multiplayer/codegolf/temperature-code-golf) | Easy | Loops | [Python](./Python/Temperatures.py) 
+[The Descent](https://www.codingame.com/ide/puzzle/the-descent) | Easy | Loops | [Python](./Python/TheDescent.py) 
