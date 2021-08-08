@@ -1,5 +1,7 @@
 ## CodinGame Challenges
 
+Challenge specification contained within each link to the CodinGame site.
+
 | Problem | Difficulty | Solution |      
 |---------|------------|----------|
 [Horse Racing Duals](https://www.codingame.com/ide/puzzle/horse-racing-duals) | Easy | [Python](./Python/HorseRacingDuels.py) 
